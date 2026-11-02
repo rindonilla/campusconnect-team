@@ -1,4 +1,4 @@
-## Team Members
+Team Members
 
 The CampusConnect project is developed collaboratively
 by the following team members:
@@ -10,4 +10,4 @@ by the following team members:
 
 Each member contributes to the development,
 documentation, and improvement of the CampusConnect
-project.# campusconnect-team
+project. campusconnect-team
