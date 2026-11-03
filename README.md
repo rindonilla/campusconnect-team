@@ -1,16 +1,11 @@
 # CampusConnect
+Features
 
-## Project Overview
+CampusConnect provides the following features to help students discover and participate in campus events:
 
-CampusConnect is a fictional campus event finder platform designed to help students discover upcoming events and activities within their school.
-
-The platform provides information about seminars, workshops, school programs, and other campus activities. Its main goal is to help students stay updated and encourage them to participate in different school events.
-
-## How to Use
-
-1. Open the CampusConnect project.
-2. Visit the homepage to see the available campus events.
-3. Browse the different event categories.
-4. Select an event to view its description, schedule, and location.
-5. Check the announcements section for the latest updates.
-6. Choose the events you are interested in attending.
+Browse Campus Events – Allows students to browse and explore upcoming campus events and activities.
+View Event Details – Displays important event information, including the event description, date, time, and location.
+Student Registration – Allows students to register for available campus events.
+Search Available Events – Enables students to search for specific events easily.
+Admin Event Management – Allows administrators to add, update, and delete campus events.
+View Registered Events – Allows students to view the events they have successfully registered for.
